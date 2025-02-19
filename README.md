@@ -3,11 +3,13 @@
 
 <div>
 With nearly a year of professional experience, I specialize in creating dynamic, scalable, and user-centric web applications. I’m enthusiastic about transforming ideas into visually stunning web solutions ✨ 
+  <br/>
 <i>I focus on delivering high-quality, pixel-perfect solutions and exceptional user experiences.</i>
 </div>
 <br/>
 <div>
 🚀 What I Bring to the Table:
+  <br/>
 🔸 Expertise in JavaScript, TypeScript, React.js, Next.js....
 🔸 Proficiency in CSS, SASS, Tailwind, Bootstrap, and animation libraries like Framer Motion and AOS
 🔸 Proven track record of building responsive websites, including e-commerce platforms and management systems
@@ -16,11 +18,13 @@ With nearly a year of professional experience, I specialize in creating dynamic,
 <br/>
 <div>
   🌟 What Drives Me:
+  <br/>
 I thrive on solving problems, learning new technologies, staying current with industry best practices and collaborating with innovative teams. I believe in the power of design and functionality to create memorable digital experiences. Dedicated to pushing boundaries in web development, I’m always on a quest to stay at the cutting edge of technology for impactful solutions.
 </div>
 <br/>
 <div>
   🎨 Beyond the Code:
+  <br/>
 When I’m not crafting digital solutions, you’ll often find me exploring scenic beaches or hiking through serene mountain trails. I also enjoy expressing my creativity through painting, which fuels my passion for design and aesthetics.
 </div>
 <br/>
