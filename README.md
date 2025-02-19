@@ -11,8 +11,11 @@ With nearly a year of professional experience, I specialize in creating dynamic,
 🚀 What I Bring to the Table:
   <br/>
 🔸 Expertise in JavaScript, TypeScript, React.js, Next.js....
+<br/>
 🔸 Proficiency in CSS, SASS, Tailwind, Bootstrap, and animation libraries like Framer Motion and AOS
+  <br/>
 🔸 Proven track record of building responsive websites, including e-commerce platforms and management systems
+  <br/>
 🔸 A knack for designing intuitive user interfaces that enhance engagement and performance
 </div>
 <br/>
