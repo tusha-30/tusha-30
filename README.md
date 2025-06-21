@@ -34,6 +34,17 @@ When I’m not crafting digital solutions, you’ll often find me exploring scen
 <div>
 <i>Let’s connect and create something impactful together!</i>
 </div>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Manjeete/github-readme-stats"><img alt="Manjeet Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manjeete&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
+  <a href="https://github.com/Manjeete/github-readme-stats"><img alt="Manjeete Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjeete&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
 <!--
 **tusha-30/tusha-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
