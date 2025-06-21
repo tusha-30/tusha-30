@@ -39,7 +39,7 @@ When I’m not crafting digital solutions, you’ll often find me exploring scen
 
   <br/>
     <a href="https://github.com/tusha-30/github-readme-stats"><img alt="tusha-30's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tusha-30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
-  <a href="https://github.com/Manjeete/github-readme-stats"><img alt="tusha-30's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusha-30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
+  <a href="https://github.com/tusha-30/github-readme-stats"><img alt="tusha-30's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusha-30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
