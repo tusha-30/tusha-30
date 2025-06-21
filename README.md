@@ -61,7 +61,6 @@ When I’m not crafting digital solutions, you’ll often find me exploring scen
 <a href="https://leetcode.com/Tusha_30/">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
 </a>
-
 <a href = "https://www.instagram.com/t_u_s_h_a__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
