@@ -35,20 +35,7 @@ When I’m not crafting digital solutions, you’ll often find me exploring scen
 
 </div>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/tusha-30/github-readme-stats"><img alt="tusha-30's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tusha-30&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
-  <a href="https://github.com/tusha-30/github-readme-stats"><img alt="tusha-30's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusha-30&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" /></a>
-  <br/>
-
-
-
-<br/>
-
-[![Tusha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusha-30&theme=react-dark)](https://github.com/tusha-30/github-readme-activity-graph)
-
-<br/>
 <br/>
 
 <i>Let’s connect and create something impactful together!</i>
