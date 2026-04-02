@@ -2,7 +2,7 @@
 <img src="./assets/Robot.gif" style="width: 200px; height: 200px;" />
 
 <div>
-With nearly a year of professional experience, I specialize in creating dynamic, scalable, and user-centric web applications. I’m enthusiastic about transforming ideas into visually stunning web solutions ✨ 
+With nearly 2 years of professional experience, I specialize in creating dynamic, scalable, and user-centric web applications. I’m enthusiastic about transforming ideas into visually stunning web solutions ✨ 
   <br/>
 <i>I focus on delivering high-quality, pixel-perfect solutions and exceptional user experiences.</i>
 </div>
